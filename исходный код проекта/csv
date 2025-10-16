@@ -1,0 +1,12 @@
+csv 
+1 client_id
+2 age 
+3 credit_score
+
+xl 
+client_id
+credit_amount
+
+json
+credit_score_range
+interest_rate
