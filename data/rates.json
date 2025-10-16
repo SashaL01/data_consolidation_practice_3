@@ -1,0 +1,22 @@
+[
+  {
+    "credit_score_range": "100-300",
+    "interest_rate": 20.35
+  },
+  {
+    "credit_score_range": "300-500",
+    "interest_rate": 13.62
+  },
+  {
+    "credit_score_range": "500-700",
+    "interest_rate": 9.81
+  },
+  {
+    "credit_score_range": "700-800",
+    "interest_rate": 6.74
+  },
+  {
+    "credit_score_range": "800-850",
+    "interest_rate": 2.35
+  }
+]
